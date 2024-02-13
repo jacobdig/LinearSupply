@@ -1,6 +1,5 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Jacob Di Girolamo, Computer Engineer, jacobdig@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
@@ -10,11 +9,11 @@ IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+The goal of this project is to design a lab bench power supply which can provide at least 28V at 4A. The supply should be controlled through a microcontroller, and eventually should be able to be controlled through a serial connection. Over voltage and over current protection will be implemented, and a buck converter will be used prior to the linear stage to improve overall efficiency.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+As a computer engineer, I never took a power class, but have always been interested in designing power supplies. This project will give me an opportunity to design both a buck converter and a linear supply, learning about power supply PCB design along the way. I will also learn to implement PID and serial control through a microcontroller, with the final product beign a versitile and useful peice of lab equipment.
 
 ## Tasks
 
